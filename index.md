@@ -1,3 +1,7 @@
+<head>
+  <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+</head>
+
 # **What’s Keeping Us Awake at Night**
 
 **Aging is inevitable.** As we grow older, we face challenges that our parents are likely to encounter ahead of us—mental health struggles and navigating life in an ever-changing world that often prioritizes the young.

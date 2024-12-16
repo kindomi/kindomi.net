@@ -18,7 +18,7 @@ While we may have managed to build our lives, what about the next generation?
 
 We envision a future inspired by the values of Enlightenment and Renaissance—where individual value is deeply honored, human connection is treasured, and optimism fuels progress.
 
-Our mission is to **Innovations to build connections that last**: fostering relationships that endure across generations, cultivating growth, and creating opportunities for individuals to realize their full potential.
+Our mission is to "**use technology to empower people to collaborate better**". Our motto is "**innovations to build connections that last**": fostering relationships that endure across generations, cultivating growth, and creating opportunities for individuals to realize their full potential.
 
 However, this vision is only meaningful if it is both sustainable and actionable. Real impact comes from solving challenges that are viable in a business context—creating solutions that last and deliver true value to humanity.
 

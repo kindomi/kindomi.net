@@ -14,6 +14,16 @@ While we may have managed to build our lives, what about the next generation?
 
 ---
 
+# **Our Mission**
+
+We envision a future inspired by the values of Enlightenment and Renaissance—where individual value is deeply honored, human connection is treasured, and optimism fuels progress.
+
+Our mission is to **use technology to empower humanity**: fostering relationships that endure across generations, cultivating growth, and creating opportunities for individuals to realize their full potential.
+
+However, this vision is only meaningful if it is both sustainable and actionable. Real impact comes from solving challenges that are viable in a business context—creating solutions that last and deliver true value to humanity.
+
+---
+
 # **Our Gratitude and Support**
 
 This journey is made possible by an incredible network of friends, family, and collaborators who offer their expertise, encouragement, and shared vision.  

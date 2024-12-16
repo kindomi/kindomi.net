@@ -22,6 +22,8 @@ Our mission is to "**use technology to empower people to collaborate better**". 
 
 However, this vision is only meaningful if it is both sustainable and actionable. Real impact comes from solving challenges that are viable in a business context—creating solutions that last and deliver true value to humanity.
 
+To begin, we are focusing on enhancing mental well-being for seniors within the AgeTech sector.
+
 ---
 
 # **Our Gratitude and Support**

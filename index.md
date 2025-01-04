@@ -39,7 +39,9 @@ To begin, we are focusing on enhancing mental well-being for seniors within the 
 
 This journey is made possible by an incredible network of friends, family, and collaborators who offer their expertise, encouragement, and shared vision.  
 
-We are especially grateful to [**Moon Creative Lab**](https://www.mooncreativelab.com/) for their introductions and guidance, which have helped us take our first steps.
+We are especially grateful to [**Moon Creative Lab**](https://www.mooncreativelab.com/) for their introductions and guidance, which have helped us take our first steps.  -- 11/25/2024
+
+We are happy to announce that we are admitted to the [Beta Pre-acceleration Program](https://www.betauniversity.org/).  -- 2/3/2025
 
 ---
 
@@ -92,11 +94,10 @@ Many people are already contributing in meaningful ways. Here’s how you can jo
 
 # **What We’re Focusing On**
 
-1. **User Research & Product Design**  
+1. **User Research & Product Design**: if someone you care may benefit from this mission, please share the contact with us by filling [this form](https://forms.gle/GSrZhxmtSJbFAFy9A). We would reach out and keep you posted on what we learn and how we plan to help. 
 2. **Market Research & Business Strategy**
 
-Are you an experienced designer or an expert in senior care who resonates with our mission?  
-Please [reach out](mailto:domi.jin@kindomi.net) and share your passion and past work with us.
+Are you an experienced designer or an expert in senior care who resonates with our mission?  Please [reach out](mailto:domi.jin@kindomi.net) and share your passion and past work with us.
 
 ---
 

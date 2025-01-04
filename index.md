@@ -1,5 +1,14 @@
 <head>
   <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-D3581KEVR0"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-D3581KEVR0');
+  </script>
 </head>
 
 # **What’s Keeping Us Awake at Night**

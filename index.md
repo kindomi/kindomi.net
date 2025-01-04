@@ -35,7 +35,8 @@ To begin, we are focusing on enhancing mental well-being for seniors within the 
 
 ---
 
-# **Our Gratitude and Support**
+# **Our Gratitude and Support** 
+> last updated: 1/3/2025
 
 This journey is made possible by an incredible network of friends, family, and collaborators who offer their expertise, encouragement, and shared vision.  
 
@@ -92,7 +93,8 @@ Many people are already contributing in meaningful ways. Here’s how you can jo
 
 ---
 
-# **What We’re Focusing On**
+# **What We’re Focusing On** 
+> last updated: 1/3/2025
 
 1. **User Research & Product Design**: if someone you care may benefit from this mission, please share the contact with us by filling [this form](https://forms.gle/GSrZhxmtSJbFAFy9A). We would reach out and keep you posted on what we learn and how we plan to help. 
 2. **Market Research & Business Strategy**

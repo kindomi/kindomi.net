@@ -31,18 +31,48 @@ Our mission is to "**use technology to empower people to collaborate better**". 
 
 However, this vision is only meaningful if it is both sustainable and actionable. Real impact comes from solving challenges that are viable in a business context—creating solutions that last and deliver true value to humanity.
 
-To begin, we are focusing on enhancing mental well-being for seniors within the AgeTech sector.
+---
+## Initial Offering
+
+To begin, we are focusing on enhancing mental well-being for seniors within the Age Tech & Healthcare Tech sector.
+
+Our first product is [a purposeful wellness check-in service for seniors](https://callfree.ai/). -- 02/15/2025
+- Sign up to experience it [here](https://forms.gle/rpvRdKwa32MFcT4P9): we are at capacity now, please expect a delay with sincerely apologize. 
+- Be the wellness advocate to spread the words of caring [here](https://forms.gle/FKAbziTCE6ajX2ff6).
+- Subscribe to our Newsletter and reach out with your story!
 
 ---
 
-# **Our Gratitude and Support** 
-> last updated: 1/3/2025
+# **Our Gratitude to The Support** 
+> last updated: 02/15/2025
 
 This journey is made possible by an incredible network of friends, family, and collaborators who offer their expertise, encouragement, and shared vision.  
 
 We are especially grateful to [**Moon Creative Lab**](https://www.mooncreativelab.com/) for their introductions and guidance, which have helped us take our first steps.  -- 11/25/2024
 
-We are happy to announce that we are admitted to the [Beta Pre-acceleration Program](https://www.betauniversity.org/).  -- 2/3/2025
+We are happy to announce that we are admitted to the [Beta Pre-acceleration Program](https://www.betauniversity.org/).  -- 02/03/2025
+
+We appreciate our communities!
+- Alumni & neighbors
+- [Elizabeth Gamble Garden](https://www.gamblegarden.org/)
+- [Palo Alto City Library](https://library.cityofpaloalto.org/)
+- and numerous more
+
+## Current Progress
+> last updated: 02/15/2025
+
+1. We have soft-launched to early paid customers at full capacity. 
+2. We have a flooding interests of talents in the pipeline.
+3. We are graduating from incubator programs & moving on to accelerator programs.
+
+
+## What We Are Focusing On Now 
+> last updated: 02/15/2025
+
+1. **Tech Stack Development**: Increase our service capacity. 
+2. **Product Iteration**: Continuous work flow and experience optimization.
+3. **Team Building**: Hiring talents with frontend, backend, data infra experience, with an experimental [#OpenRecruitmentProcess](https://substack.com/@domijin/note/c-92944222). We value your time and hope this would reduce the load from both parties. Here is our [team culture](https://substack.com/home/post/p-156681370).
+
 
 ---
 
@@ -81,25 +111,16 @@ Kin Domi isn’t just an investment vehicle; it’s a **commitment to collective
 Many people are already contributing in meaningful ways. Here’s how you can join:  
 
 ### 1. **Stay Connected**
-- Subscribe to our Substack: [domijin.substack.com](https://domijin.substack.com)  
+- Subscribe to our Substack: [domijin.substack.com](https://substack.com/@domijin)  
   (Paid subscriptions are appreciated but not required for full access.)
 
 ### 2. **Engage in Self-Reflection**
-- Reflect on your calling and purpose. Share your insights—we would love to learn from your perspective.
+- Reflect on your calling and purpose. Share your insights—we would love to learn from your perspective (especially if you wanna join us).
 
 ### 3. **Get Involved**
-- **Share Your Insights**: [Book a time](https://calendar.app.google/SwJBne6hKzTUCSTN7) to discuss your thoughts and findings.  
+- **Share Your Insights**: [Book a time](https://calendar.app.google/SwJBne6hKzTUCSTN7) to discuss your thoughts and findings (please be mindful & prepared).
 - **Join the Mission**: Explore how your skills, ideas, or expertise could contribute.
 
----
-
-# **What We’re Focusing On** 
-> last updated: 1/3/2025
-
-1. **User Research & Product Design**: if someone you care may benefit from this mission, please share the contact with us by filling [this form](https://forms.gle/GSrZhxmtSJbFAFy9A). We would reach out and keep you posted on what we learn and how we plan to help. 
-2. **Market Research & Business Strategy**
-
-Are you an experienced designer or an expert in senior care who resonates with our mission?  Please [reach out](mailto:domi.jin@kindomi.net) and share your passion and past work with us.
 
 ---
 

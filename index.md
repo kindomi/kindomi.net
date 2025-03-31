@@ -33,18 +33,22 @@ However, this vision is only meaningful if it is both sustainable and actionable
 
 ---
 ## Initial Offering
+> last updated: 3/31/2025
 
-To begin, we are focusing on enhancing mental well-being for seniors within the Age Tech & Healthcare Tech sector.
+To begin, we are focusing on enhancing mental well-being for seniors within the Age Tech and Healthcare Tech sector.
 
-Our first product is [a purposeful wellness check-in service for seniors](https://callfree.ai/). -- 02/15/2025
-- Sign up to experience it [here](https://forms.gle/rpvRdKwa32MFcT4P9): we are at capacity now, please expect a delay with sincerely apologize. 
-- Be the wellness advocate to spread the words of caring [here](https://forms.gle/FKAbziTCE6ajX2ff6).
-- Subscribe to our Newsletter and reach out with your story!
+Our ~~first~~ → second product will be a purposeful wellness check-in service for seniors.
+
+Our **first** product aims to help prevent tragedies like [Gene Hackman's death](https://www.cnn.com/2025/02/28/entertainment/what-we-know-gene-hackman-betsy-arakawa-hnk/index.html)!
+
+**We’re starting where the need is urgent, and the impact is tangible.**
+
+Stay tuned for the reveal! Follow our newsletter on Substack!
 
 ---
 
 # **Our Gratitude to The Support** 
-> last updated: 02/15/2025
+> last updated: 03/31/2025
 
 This journey is made possible by an incredible network of friends, family, and collaborators who offer their expertise, encouragement, and shared vision.  
 
@@ -52,47 +56,37 @@ We are especially grateful to [**Moon Creative Lab**](https://www.mooncreativela
 
 We are happy to announce that we are admitted to the [Beta Pre-acceleration Program](https://www.betauniversity.org/).  -- 02/03/2025
 
+We are proud to be certificated by [WRMSDC](https://wrmsdc.org/), as a trusted Minority Business Enterprise (MBE), opening doors for corporate and governmental partnerships.  -- 3/30/2025
+
 We appreciate our communities!
-- Alumni & neighbors
+- Alumni and neighbors
 - [Elizabeth Gamble Garden](https://www.gamblegarden.org/)
 - [Palo Alto City Library](https://library.cityofpaloalto.org/)
+- [Angel Squad by Hustle Fund](https://www.hustlefund.vc/squad)
+- [Pacific Art League](https://www.pacificartleague.org/)
+- [Society of Heart’s Delight](https://yuyuanshe.com/)
 - and numerous more
 
-## Current Progress
-> last updated: 02/15/2025
-
-1. We have soft-launched to early paid customers at full capacity. 
-2. We have a flooding interests of talents in the pipeline.
-3. We are graduating from incubator programs & moving on to accelerator programs.
-
-
 ## What We Are Focusing On Now 
-> last updated: 02/15/2025
+> last updated: 03/31/2025
 
-1. **Tech Stack Development**: Increase our service capacity. 
-2. **Product Iteration**: Continuous work flow and experience optimization.
-3. **Team Building**: Hiring talents with frontend, backend, data infra experience, with an experimental [#OpenRecruitmentProcess](https://substack.com/@domijin/note/c-92944222). We value your time and hope this would reduce the load from both parties. Here is our [team culture](https://substack.com/home/post/p-156681370).
-
+1. **Tech Stack Development**: Increase our service capacity
+2. **Team Building**
+- Kickstarting our internship program for UI/UX, Marketing, and Software Engineering (frontend, backend, infra, voice AI, and test engineering) through [#OpenRecruitment](https://substack.com/@domijin/note/c-92944222)
+3. **UX Research and Validation**: Scaling hypothesis-driven product development to refine and expand our product-market fit (PMF)
 
 ---
 
-# **Our Current Team**
+# **Who We Are**
+> last updated: 3/31/2025
 
-Our team combines diverse expertise and a foundation of deep trust built through years of collaboration and shared life experiences. Together, we bring the following strengths:
+Our team combines diverse expertise and a foundation of deep trust built through years of collaboration and shared life experiences. 
 
-- **Product Design & System Architecture**: Expertise in designing user-focused systems that solve real-world challenges.  
-- **Psychiatry & NLP in Mental Health**: Insights into improving mental well-being using advanced technologies.  
-- **Coaching & Relationship Mentorship**: Experience in fostering personal growth and nurturing meaningful connections.  
-- **Engineering Expertise**: Skills in ML systems, mobile app development (iOS/Android), backend infrastructure, and scalability.  
-- **Sales & People-Centric Strategy**: Proficiency in building relationships, seasoned sales strategies, and community engagement.  
-- **Market Insights & Business Intuition**: A deep understanding of market trends, value investing, and strategic thinking.
+- Founder: [Dongming Jin](http://domij.info/). Bringing people together with systems thinking, design empathy, and a deep belief in meaningful collaboration.
+- Medical Research: [Benjamin Joseph Hoover](https://profiles.stanford.edu/benjamin-hoover). Neighbor turned family friend—our dogs grew up together. Ben brings psychiatric expertise and a shared heart for community well-being.
+- Full Stack: [Deezus V3](https://play.google.com/store/apps/dev?id=7228335941587808128&hl=en_US). A longtime friend and backend wizard from our engineering circles, currently leading large-scale infrastructure at Google.
+- Intern: [Connor Ng](https://www.linkedin.com/in/connorng/). A bright, thoughtful young talent pursuing an MS in Computational Linguistics, with three years of experience in technical solutions at Epic. He’s also the son of one of our community advocate advisors.
 
-### **Our Trust and Bonding**
-Our team’s strength lies in trust, developed through:  
-- Collaborating as neighbors, friends, and colleagues.  
-- Witnessing life milestones together—welcoming newborns, raising dogs, and sharing profound conversations about purpose and growth.  
-- Supporting one another in personal challenges and professional endeavors, from landing jobs to building startups.  
-- Volunteering in communities and drawing from shared wisdom.
 
 ---
 
@@ -118,7 +112,7 @@ Many people are already contributing in meaningful ways. Here’s how you can jo
 - Reflect on your calling and purpose. Share your insights—we would love to learn from your perspective (especially if you wanna join us).
 
 ### 3. **Get Involved**
-- **Share Your Insights**: [Book a time](https://calendar.app.google/SwJBne6hKzTUCSTN7) to discuss your thoughts and findings (please be mindful & prepared).
+- **Share Your Insights**: [Book a time](https://calendar.app.google/SwJBne6hKzTUCSTN7) to discuss your thoughts and findings (please be mindful and prepared).
 - **Join the Mission**: Explore how your skills, ideas, or expertise could contribute.
 
 

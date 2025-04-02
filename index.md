@@ -57,7 +57,7 @@ We are constantly amazed by the **rich wisdom** and **abundant life experience**
 
 ---
 
-# **4. Our Current Focus**
+# **Our Current Focus**
 > last updated: 3/31/2025
 
 ### **Initial Product Offering**  

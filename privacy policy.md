@@ -4,7 +4,7 @@
 ## Introduction
 Kin Domi, Inc ("Company" or "We") respect your privacy and are committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website kindomi.net and/or engage our services (such visit and engagement are collectively referred to as the "Services") and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website https://kindomi.net and/or engage our services (such visit and engagement are collectively referred to as the "Services") and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Services. By accessing or using our Services, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of our Services after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
@@ -101,7 +101,7 @@ Some content and applications in our Services, including advertisements, are ser
 - Associate the collected data with your personal information or track your behavior across multiple websites and platforms.
 - Use this information to deliver interest-based advertising (behavioral targeting) or other personalized content.
 
-We do not control third-party tracking technologies or their data usage. To disable tracking, you may adjust your browser settings, use opt-out tools provided by the Network Advertising Initiative (NAI), or visit [Insert Link] to manage your preferences. If you have concerns about targeted advertising, you should contact the respective third-party provider or review their privacy policies. For information on how to opt out of targeted advertising, see Choices About How We Use and Disclose Your Information.
+We do not control third-party tracking technologies or their data usage. To disable tracking, you may adjust your browser settings, use opt-out tools provided by the Network Advertising Initiative (NAI) to manage your preferences. If you have concerns about targeted advertising, you should contact the respective third-party provider or review their privacy policies. For information on how to opt out of targeted advertising, see Choices About How We Use and Disclose Your Information.
 
 ## How We Use Your Information
 We use the information we collect about you to:

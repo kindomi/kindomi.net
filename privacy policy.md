@@ -1,5 +1,5 @@
 # Privacy Policy
-*Last modified: 02/28/2025*
+*Last modified: 02/28/2025 by [MagStone Law](https://www.magstonelaw.com/)*
 
 ## Introduction
 Kin Domi, Inc ("Company" or "We") respect your privacy and are committed to protecting it through our compliance with this policy.
